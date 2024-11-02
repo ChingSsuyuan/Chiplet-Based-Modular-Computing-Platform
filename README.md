@@ -10,7 +10,7 @@ We read the article and confirmed our research direction on chiplet technology. 
 ![p2](https://github.com/ChingSsuyuan/EC601-Project/blob/9f59ebe5ce0c2d8a38db6475c3c0ebde55e84a49/Resources/picture2.png)
 # Sprint 2
 After further research on chiplet technology, we have focused on the packaging technologies related to chiplets, specifically MCM (Multi-Chip Module), CoWoS (Chip-on-Wafer-on-Substrate), and EMIB (Embedded Multi-die Interconnect Bridge). We completed a PowerPoint presentation and shared findings in class.
-![p3](https://github.com/ChingSsuyuan/EC601-Project/blob/d5d1d4b94f754a25ffd5ddab2c9b08bafe5323f3/Resources/picture3.png)
+![p3]()
 # Sprint 3
 We analyze the development of chips from the perspective of packaging technology to explore and develop the Chiplet-Based Modular Computing Platform.
 
