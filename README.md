@@ -15,5 +15,5 @@ After further research on chiplet technology, we focused on the packaging techno
 We analyze the development of chips from the perspective of packaging technology to explore and develop the Chiplet-Based Modular Computing Platform.
 
 First, we researched the evolution and history of packaging technologies, progressing from 2D to 2.5D and then to 3D.
-
+![p4](https://github.com/ChingSsuyuan/EC601-Project/blob/c3c4af32fe8dd092068804cba2ffa5fe11412c2d/Resources/picture4.png)
 Focusing on the current leading packaging technologies, we explored and studied the performance of Multi-Chip Modules (MCM) and CoWoS, analyzing their transmission rates, compatibility, and scalabilit.
