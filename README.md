@@ -9,5 +9,5 @@ The Chiplet-Based Modular Computing Platform aims to develop a flexible, scalabl
 We read the article and confirmed our research direction on chiplet technology. We completed the product mission statement, MVP, and user story related to it.
 
 # Sprint 2
-
+After further research on chiplet technology, we have focused on the packaging technologies related to chiplets, specifically MCM (Multi-Chip Module), CoWoS (Chip-on-Wafer-on-Substrate), and EMIB (Embedded Multi-die Interconnect Bridge). We completed a PowerPoint presentation and shared findings in class.
 # Sprint 3
