@@ -15,4 +15,4 @@ We analyze the development of chips from the perspective of packaging technology
 
 First, we researched the evolution and history of packaging technologies, progressing from 2D to 2.5D and then to 3D.
 
-Focusing on the current leading packaging technologies, we explored and studied the performance of Multi-Chip Modules (MCM) and CoWoS, analyzing their transmission rates, compatibility, and scalabilit
+Focusing on the current leading packaging technologies, we explored and studied the performance of Multi-Chip Modules (MCM) and CoWoS, analyzing their transmission rates, compatibility, and scalabilit.
