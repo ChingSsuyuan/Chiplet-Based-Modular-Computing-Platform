@@ -23,4 +23,4 @@ We analyze the development of chips from the perspective of packaging technology
 ## Then, Focusing on the current leading packaging technologies, we explored and studied the performance of Multi-Chip Modules (MCM) and CoWoS, analyzing their transmission rates, compatibility, and scalabilit.
 
 # Future Plan
-Commit a research report on chiplets focused on package technology
+Commit a research report on chiplets focused on package technology.
