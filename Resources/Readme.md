@@ -1,6 +1,6 @@
 # 👆 Papers we read and cited 👆
 
-# Cowos References:
+## Cowos References:
 https://zhuanlan.zhihu.com/p/647449694
 
 https://news.qq.com/rain/a/20240627A08WBH00
