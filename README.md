@@ -21,3 +21,6 @@ We analyze the development of chips from the perspective of packaging technology
 ![p4](https://github.com/ChingSsuyuan/EC601-Project/blob/c3c4af32fe8dd092068804cba2ffa5fe11412c2d/Resources/picture4.png)
 
 ## Then, Focusing on the current leading packaging technologies, we explored and studied the performance of Multi-Chip Modules (MCM) and CoWoS, analyzing their transmission rates, compatibility, and scalabilit.
+
+# Future Plan
+Commit a research report on chiplets focused on package technology
