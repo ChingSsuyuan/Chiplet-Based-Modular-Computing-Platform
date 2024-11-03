@@ -1,4 +1,5 @@
-# EC601 Project The Chiplet-Based Modular Computing Platform
+## EC601 Project:
+# The Chiplet-Based Modular Computing Platform
 ![p1](https://github.com/ChingSsuyuan/EC601-project/blob/429dd63ed9b0cf09f26b83e3cb78eb2cb8323f84/Resources/picture1.png)
 
 ### Collobrated by ChingSsuyuan & 2233-cheers & hpt2003, Siyuan Jing, Pengtao Huang, Xindong Zhou at Boston University.
