@@ -30,4 +30,4 @@ Commit a research report on chiplets focused on package technology.
 - Display the bandwidth and latency performance of different packaging technologies using bar graphs, line graphs, or scatter plots.
 - Show the temperature distribution of different packages under high loads using heat maps
 - Use bar charts or stacked diagrams to show the difference in area utilization of each packaging technology, especially the effect of space utilization when integrating multiple chips.
-
+- Generate graphs and heatmaps to show metrics like bandwidth, latency, power consumption etc. using Python's Matplotlib, Seaborn, Plotly.
