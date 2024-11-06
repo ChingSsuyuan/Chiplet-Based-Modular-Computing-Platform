@@ -24,4 +24,5 @@ We analyze the development of chips from the perspective of packaging technology
 
 # Future Plan
 Commit a research report on chiplets focused on package technology. 
-Use visualization techniques to test the performance of different chip packaging technologies
+
+Use visualization techniques to test the performance of different chip packaging technologies.
