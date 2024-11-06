@@ -26,3 +26,5 @@ We analyze the development of chips from the perspective of packaging technology
 Commit a research report on chiplets focused on package technology. 
 
 Use visualization techniques to test the performance of different chip packaging technologies.
+
+We hope to display the bandwidth and latency performance of different packaging technologies using bar graphs, line graphs, or scatter plots.
