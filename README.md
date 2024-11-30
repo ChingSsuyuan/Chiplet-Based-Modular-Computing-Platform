@@ -1,5 +1,5 @@
 # Research On Chiplets(Based On Packaging Technology)
-
+![Poster](Resources)
 ### Collobrated by [ChingSsuyuan ](https://github.com/ChingSsuyuan) & [2233-cheers](https://github.com/2233-cheers) & [ hpt2003](https://github.com/hpt2003), Siyuan Jing,  Xindong Zhou, Pengtao Huang, at Boston University.
 
 The Chiplet-Based Modular Computing Platform aims to develop a flexible, scalable, and high-performance computing solution utilizing chiplet technology. 
